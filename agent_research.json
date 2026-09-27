@@ -1,0 +1,79 @@
+{
+  "market": {
+    "Nifty 50": {
+      "status": "OK",
+      "value": 23140.5,
+      "change": 77.4,
+      "change_percent": 0.34
+    },
+    "Sensex": {
+      "status": "OK",
+      "value": 73895.74,
+      "change": 315.2,
+      "change_percent": 0.43
+    },
+    "Bank Nifty": {
+      "status": "OK",
+      "value": 55580.4,
+      "change": 141.9,
+      "change_percent": 0.26
+    },
+    "India VIX": {
+      "status": "OK",
+      "value": 12.16,
+      "change": -0.53,
+      "change_percent": -4.18
+    }
+  },
+  "global": {
+    "S&P 500": {
+      "status": "OK",
+      "value": 7743.41,
+      "change": 39.28,
+      "change_percent": 0.51
+    },
+    "NASDAQ": {
+      "status": "OK",
+      "value": 27068.72,
+      "change": 129.35,
+      "change_percent": 0.48
+    },
+    "Dow Jones": {
+      "status": "OK",
+      "value": 51828.62,
+      "change": 478.64,
+      "change_percent": 0.93
+    },
+    "Nikkei 225": {
+      "status": "OK",
+      "value": 66364.2,
+      "change": 850.21,
+      "change_percent": 1.3
+    },
+    "Hang Seng": {
+      "status": "OK",
+      "value": 24510.09,
+      "change": -251.04,
+      "change_percent": -1.01
+    },
+    "Crude Oil": {
+      "status": "OK",
+      "value": 92.41,
+      "change": -2.2,
+      "change_percent": -2.33
+    },
+    "Gold": {
+      "status": "OK",
+      "value": 4321.2,
+      "change": 23.2,
+      "change_percent": 0.54
+    },
+    "USD/INR": {
+      "status": "OK",
+      "value": 95.82,
+      "change": -0.34,
+      "change_percent": -0.35
+    }
+  },
+  "news": []
+}

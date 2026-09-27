@@ -1,0 +1,104 @@
+{
+  "market": {
+    "Nifty 50": {
+      "status": "OK",
+      "value": 23391.75,
+      "change": 45.35,
+      "change_percent": 0.19
+    },
+    "Sensex": {
+      "status": "OK",
+      "value": 74698.75,
+      "change": 403.79,
+      "change_percent": 0.54
+    },
+    "Bank Nifty": {
+      "status": "OK",
+      "value": 56426.25,
+      "change": 67.55,
+      "change_percent": 0.12
+    },
+    "India VIX": {
+      "status": "OK",
+      "value": 11.61,
+      "change": 0.22,
+      "change_percent": 1.91
+    }
+  },
+  "news": [
+    {
+      "category": "Indian Stock Market",
+      "title": "Jindal Supreme India IPO allotment: How to check status online on NSE, BSE, Bigshare Services; listing date, time here - Upstox",
+      "published": "Sun, 20 Sep 2026 06:43:20 GMT",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR1NwVWJTRkdUTE9hTHB0TUNmeFVzV1hzdUpqMkdFTE5zZjFmNUxvUDktRGVjSExVcWVKV09lTTZISl96WWhlSjhuekZGdGx6YXFnYkhGdFBIcEExN2tQTldXNFNvb1NCZ0FVMzJKcVg5RXFqZFdnLVZuRmxjdm5HS0Jib25SYUR4U2pCeUljQ2J6UzRsNWdqQmdFMEJma0x2dFFFb2gtdC1oVUhxNzFtUGpJa04xTnh4SUJWbExjQkEzbThnN2lyVEI3QmFPVGRDbFczbTI4YTFQRHNPU1dfelowbDRNUUNSRUl2ZFhCRC05dlU0UUctc21tLUQxQQ?oc=5",
+      "relevance_score": 6
+    },
+    {
+      "category": "Indian Companies",
+      "title": "Ceigall India Q4 & FY26 Earnings Call: Order Book, Guidance & Strategy - scanx.trade",
+      "published": "Sun, 20 Sep 2026 10:56:28 GMT",
+      "source": "scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQT0h1Z3hQWGN0Ql8xVkl4d3ViczlQNkNxZjF2aGJpUGJhMFhUaEh4dnUzNF9QUV9GYXR4cnVxUjRVdjNrNnRab1JxWUpVUkpEMWRhc0w5OUhEX2VBSGJqYzgyc1B4bW5ZNTdDOExhSVNxS05jcTlvS3V2VVhaeEFoMzRvYnZ0MjhUZDNnTmw5U2t4aUdMZ1hNMFdQQXJoZlBoWVAzY1J1OWFFS3RLRGEwQmFIWm9sMEtOcE9jUnlHc3FRbWVQV2NQUHFkV0tFUnBNaHlvTlY0RTdUcWdwZ3VJSy1jNC0tM2RCZ1cyNmZtYmxiRXhqZkY3M1ZVWmpDUWJBemxZanE5QQ?oc=5",
+      "relevance_score": 6
+    },
+    {
+      "category": "Indian Sectors",
+      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
+      "published": "Sun, 20 Sep 2026 06:00:06 GMT",
+      "source": "Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFJKTXotNjFOQzZ4b3FoYjAxMGh2X1gydkcwMjc4OEFCMU1JSS1sSEh4Nl9PdjMyYTlpQXc2dDM1MmJFV1pzLVZkSTBjdG9fSUhwWjhZSHJrUnRXc2F1aHE2dXM3VkJsZ2pwVlNuMHhteGlUcElfdUNRQmhrQkRreDVHbDN5OEdic3FDUXJrRlFXTDNRcFBOa3N3?oc=5",
+      "relevance_score": 1
+    }
+  ],
+  "global": {
+    "S&P 500": {
+      "status": "OK",
+      "value": 7650.5,
+      "change": 12.74,
+      "change_percent": 0.17
+    },
+    "NASDAQ": {
+      "status": "OK",
+      "value": 26522.54,
+      "change": 104.24,
+      "change_percent": 0.39
+    },
+    "Dow Jones": {
+      "status": "OK",
+      "value": 51682.64,
+      "change": -95.4,
+      "change_percent": -0.18
+    },
+    "Nikkei 225": {
+      "status": "OK",
+      "value": 65018.95,
+      "change": 882.7,
+      "change_percent": 1.38
+    },
+    "Hang Seng": {
+      "status": "OK",
+      "value": 24891.28,
+      "change": 140.5,
+      "change_percent": 0.57
+    },
+    "Crude Oil": {
+      "status": "OK",
+      "value": 94.03,
+      "change": -6.27,
+      "change_percent": -6.25
+    },
+    "Gold": {
+      "status": "OK",
+      "value": 4397.9,
+      "change": -27.0,
+      "change_percent": -0.61
+    },
+    "USD/INR": {
+      "status": "OK",
+      "value": 95.72,
+      "change": -0.08,
+      "change_percent": -0.08
+    }
+  }
+}

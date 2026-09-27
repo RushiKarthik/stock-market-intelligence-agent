@@ -1,0 +1,228 @@
+======================================== 
+Run started at 16-09-2026 13:26:57.90 
+======================================================================
+Traceback (most recent call last):
+  File "C:\Users\rushi\OneDrive\Desktop\AIML PROJECT\stock-market-agent\run_daily_report.py", line 45, in <module>
+    main()
+  File "C:\Users\rushi\OneDrive\Desktop\AIML PROJECT\stock-market-agent\run_daily_report.py", line 10, in main
+    print("\U0001f1ee\U0001f1f3 DAILY INDIAN MARKET INTELLIGENCE AGENT")
+  File "C:\Users\rushi\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+Exit code: 1 
+Run ended at 16-09-2026 13:27:04.01 
+======================================== 
+======================================== 
+Run started at 16-09-2026 13:27:22.18 
+======================================================================
+Traceback (most recent call last):
+  File "C:\Users\rushi\OneDrive\Desktop\AIML PROJECT\stock-market-agent\run_daily_report.py", line 45, in <module>
+    main()
+  File "C:\Users\rushi\OneDrive\Desktop\AIML PROJECT\stock-market-agent\run_daily_report.py", line 10, in main
+    print("\U0001f1ee\U0001f1f3 DAILY INDIAN MARKET INTELLIGENCE AGENT")
+  File "C:\Users\rushi\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>
+Exit code: 1 
+Run ended at 16-09-2026 13:27:23.99 
+======================================== 
+======================================== 
+Run started at 16-09-2026 13:35:03.32 
+  File "C:\Users\rushi\OneDrive\Desktop\AIML PROJECT\stock-market-agent\run_daily_report.py", line 37
+    print("\n🎉 COMPLETE PIPELINE FINISHED!")run
+                                            ^^^
+SyntaxError: invalid syntax
+Exit code: 1 
+Run ended at 16-09-2026 13:35:03.49 
+======================================== 
+======================================== 
+Run started at 16-09-2026 13:36:41.49 
+======================================================================
+🇮🇳 DAILY INDIAN MARKET INTELLIGENCE AGENT
+======================================================================
+
+[1/4] Collecting market + global data + news...
+Collecting Indian market data...
+Collecting Indian market news...
+
+Collecting news...
+Indian Stock Market: 100 articles found
+Indian Companies: 76 articles found
+RBI SEBI Economy: 71 articles found
+Indian Corporate Actions: 41 articles found
+Indian Sectors: 49 articles found
+
+Recent usable articles: 7
+After duplicate filtering: 6
+Final articles sent to AI: 6
+Collecting global market cues...
+
+[2/4] Running AI analysis...
+Sending Indian news to Groq...
+
+[3/4] Building final report...
+
+[4/4] Sending report by email...
+✅ Report emailed successfully!
+
+🎉 COMPLETE PIPELINE FINISHED!
+
+======================================================================
+✅ DAILY REPORT READY
+======================================================================
+
+Generated: 2026-09-16 13:37:09.247555
+News articles: 6
+
+File: daily_market_report.md
+Exit code: 0 
+Run ended at 16-09-2026 13:37:09.43 
+======================================== 
+======================================== 
+Run started at 16-09-2026 13:51:12.93 
+======================================================================
+🇮🇳 DAILY INDIAN MARKET INTELLIGENCE AGENT
+======================================================================
+
+[1/4] Collecting market + global data + news...
+Collecting Indian market data...
+Collecting Indian market news...
+
+Collecting news...
+Indian Stock Market: 100 articles found
+Indian Companies: 76 articles found
+RBI SEBI Economy: 71 articles found
+Indian Corporate Actions: 41 articles found
+Indian Sectors: 48 articles found
+
+Recent usable articles: 7
+After duplicate filtering: 7
+Final articles sent to AI: 7
+Collecting global market cues...
+
+[2/4] Running AI analysis...
+Sending Indian news to Groq...
+
+[3/4] Building final report...
+
+[4/4] Sending report by email...
+✅ Report emailed successfully!
+
+🎉 COMPLETE PIPELINE FINISHED!
+
+======================================================================
+✅ DAILY REPORT READY
+======================================================================
+
+Generated: 2026-09-16 13:51:34.173765
+News articles: 7
+
+File: daily_market_report.md
+Exit code: 0 
+Run ended at 16-09-2026 13:51:34.33 
+======================================== 
+======================================== 
+Run started at 17-09-2026 18:06:53.47 
+======================================== 
+Run started at 19-09-2026  9:12:43.03 
+======================================== 
+Run started at 20-09-2026 12:02:51.35 
+======================================================================
+🇮🇳 DAILY INDIAN MARKET INTELLIGENCE AGENT
+======================================================================
+
+[1/4] Collecting market + global data + news...
+Collecting Indian market data...
+Collecting Indian market news...
+
+Collecting news...
+Indian Stock Market: 100 articles found
+Indian Companies: 62 articles found
+RBI SEBI Economy: 70 articles found
+Indian Corporate Actions: 50 articles found
+Indian Sectors: 57 articles found
+
+Recent usable articles: 2
+After duplicate filtering: 2
+Final articles sent to AI: 2
+Collecting global market cues...
+
+[2/4] Running AI analysis...
+Sending Indian news to Groq...
+
+[3/4] Building final report...
+
+[4/4] Sending report by email...
+✅ Report emailed successfully!
+
+🎉 COMPLETE PIPELINE FINISHED!
+
+======================================================================
+✅ DAILY REPORT READY
+======================================================================
+
+Generated: 2026-09-20 12:03:30.731483
+News articles: 2
+
+File: daily_market_report.md
+Exit code: 0 
+Run ended at 20-09-2026 12:03:30.91 
+======================================== 
+======================================== 
+Run started at 21-09-2026  9:40:10.35 
+======================================================================
+🇮🇳 DAILY INDIAN MARKET INTELLIGENCE AGENT
+======================================================================
+
+[1/4] Collecting market + global data + news...
+Collecting Indian market data...
+Collecting Indian market news...
+
+Collecting news...
+Indian Stock Market: 100 articles found
+Indian Companies: 76 articles found
+RBI SEBI Economy: 70 articles found
+Indian Corporate Actions: 43 articles found
+Indian Sectors: 54 articles found
+
+Recent usable articles: 3
+After duplicate filtering: 3
+Final articles sent to AI: 3
+Collecting global market cues...
+
+[2/4] Running AI analysis...
+Sending Indian news to Groq...
+
+[3/4] Building final report...
+
+[4/4] Sending report by email...
+✅ Report emailed successfully!
+
+🎉 COMPLETE PIPELINE FINISHED!
+
+======================================================================
+✅ DAILY REPORT READY
+======================================================================
+
+Generated: 2026-09-21 09:40:53.144846
+News articles: 3
+
+File: daily_market_report.md
+Exit code: 0 
+Run ended at 21-09-2026  9:40:53.52 
+======================================== 
+======================================== 
+Run started at 22-09-2026 13:53:05.55 
+Cookie/crumb fetch failed (DNSError), continuing without crumb
+$^NSEI: possibly delisted; no price data found  (period=5d)
+Cookie/crumb fetch failed (DNSError), continuing without crumb
+======================================== 
+Run started at 23-09-2026  9:35:35.30 
+======================================== 
+Run started at 25-09-2026  0:07:45.27 
+======================================== 
+Run started at 25-09-2026 11:37:01.52 
+======================================== 
+Run started at 27-09-2026 11:09:32.69 
